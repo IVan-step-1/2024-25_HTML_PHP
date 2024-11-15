@@ -28,6 +28,9 @@
     echo "<p>$saluto $nome, benvenuta nella mia prima pagina PHP!</p>";
     ?>
 
+    <!-- il link per tornare alla home page --!>
+    <a href="Index.html"> Torna indietro </a>
+
 </body>
 
 </html>

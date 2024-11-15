@@ -28,5 +28,12 @@
 
 	?>
 
+        <!-- il link per tornare indietro--!>
+        <a href="RegisterPage.html"> Torna indietro </a> <br>
+        
+        <!-- il link per tornare alla home page--!>
+        <a href="Index.html"> Torna alla home page </a>
+
+
 </body>
 </html>

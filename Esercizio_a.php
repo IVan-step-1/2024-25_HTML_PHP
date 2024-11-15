@@ -27,6 +27,9 @@
     echo "</table>";
     ?>
 
+    <!-- il link per tornare alla home page --!>
+    <a href="Index.html"> Torna indietro </a>
+
 </body>
 
 </html>
