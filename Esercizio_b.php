@@ -15,10 +15,14 @@
 
         $saluto = "Buongiorno";
 
-    } elseif ($ora >= 12 && $ora < 20) {
+    } elseif ($ora >= 12 && $ora < 16) {
 
-        $saluto = "Buonasera";
+        $saluto = "Buon pomeriggio";
+    }
+        elseif ($ora >= 16 && $ora <= 21) {
 
+            $saluto = "Buonasera";
+    
     } else {
         
         $saluto = "Buonanotte";
@@ -28,8 +32,16 @@
     echo "<p>$saluto $nome, benvenuta nella mia prima pagina PHP!</p>";
     ?>
 
+    <br>
+    <br>
+
+    <a href="appunti_di_esercizio_b.html"> Per capire di piu' clicca qui</a>
+
+    <br>
+    <br>
+
     <!-- il link per tornare alla home page --!>
-    <a href="Index.html"> Torna indietro </a>
+    <a href="index.html"> Torna indietro </a>
 
 </body>
 

@@ -26,9 +26,17 @@
 
     echo "</table>";
     ?>
+    
+    <br>
+    <br>
+
+    <a href="appunti_di_esercizio_a.html"> Per capire di piu' clicca qui</a>
+
+    <br>
+    <br>
 
     <!-- il link per tornare alla home page --!>
-    <a href="Index.html"> Torna indietro </a>
+    <a href="index.html"> Torna indietro </a>
 
 </body>
 

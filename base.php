@@ -27,12 +27,22 @@
     }
 
 	?>
+    
+    <br>
+    <br>
+
+    <a href="appunti_di_base.html"> Per capire di piu' clicca qui</a>
+
+    <br>
+    <br>
 
         <!-- il link per tornare indietro--!>
-        <a href="RegisterPage.html"> Torna indietro </a> <br>
-        
+        <a href="registerPage.html"> Torna indietro </a> 
+    <br>
+    <br>
+
         <!-- il link per tornare alla home page--!>
-        <a href="Index.html"> Torna alla home page </a>
+        <a href="index.html"> Torna alla home page </a>
 
 
 </body>
